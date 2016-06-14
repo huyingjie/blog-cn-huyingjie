@@ -1,7 +1,7 @@
 # Site settings
 title: 生活中的随机变量
 description: "胡英杰的blog, 内容关于统计,数据科学,数据分析,数学,股票和生活"
-baseurl: "/blog-cn-huyingjie" 
+baseurl: "" 
 url: "http://huyingjie.github.io/blog-cn-huyingjie" 
 tagline: 胡英杰的blog/统计/数据科学/数据分析/数学/股票/生活
 twitter_username: yingjieYJH
