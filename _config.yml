@@ -1,0 +1,21 @@
+# Site settings
+title: 生活中的随机变量
+description: "胡英杰的blog, 内容关于统计,数据科学,数据分析,数学,股票和生活"
+baseurl: "" 
+url: "http://huyingjie.github.io/blog-cn-huyingjie" 
+tagline: 胡英杰的blog/统计/数据科学/数据分析/数学/股票/生活
+twitter_username: yingjieYJH
+github_username:  huyingjie
+linkedin_username: yingjiehu
+
+# Build settings
+# markdown: kramdown
+kramdown:
+    input: GFM
+    auto_ids: false
+gems: [jekyll-paginate]
+paginate: 5
+paginate_path: '/blog/page:num/'
+permalink: /blog/:title
+
+
